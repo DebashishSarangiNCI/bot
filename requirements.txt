@@ -1,3 +1,0 @@
-solana
-python-telegram-bot
-solders
